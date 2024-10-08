@@ -17,7 +17,7 @@ B2_BUCKET = ""
 B2_CUSTOM_DOMAIN = ""
 
 [[kv_namespaces]]
-binding = "KV_IMG_MOM"
+binding = "R2bot"
 id = ""
 
 [[r2_buckets]]
