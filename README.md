@@ -10,6 +10,8 @@
 ![wechat2](https://img.shields.io/badge/微信公众号-悖论的技术小屋-brightgreen?style=flat-square)
 </div>
 
+2024-10-08 22:26 will this update deploy to the worker?
+
 ## 特性
 - 基于 Cloudflare Workers 运行时构建, 轻量使用完全免费
 - 支持多种图床（Telegram/Cloudfalre R2/Backblaze B2, 更多图床正在支持中）
