@@ -3,6 +3,7 @@
   <h1 align="center">img-mom | 图片老妈</h1>
   <p align="center">
 		Telegram 图片上传机器人，轻松上传图片到指定图床并获取外链地址
+	  https://some.fylsen.com/posts/telegram-automation-image-hosting-guide-cloudflare-integration/  这个页面的说明更清晰明了。不过还是踩了坑，cf api填错
   </p>
 
 [![twitter](https://img.shields.io/twitter/follow/beilunyang.svg?label=beilunyang
